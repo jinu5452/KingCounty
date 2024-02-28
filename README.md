@@ -12,4 +12,4 @@
 - Consider renovations: Investing in strategic renovations or updates can enhance your property's appeal and justify a higher asking price.
 
 ### Visualizations:
-Final Report (Tableau Story)![image](https://github.com/jinu5452/KingCounty/assets/157840439/c6cd5963-a4e5-403c-bd03-f5d104f16add)
+Final Report (Tableau Story)
