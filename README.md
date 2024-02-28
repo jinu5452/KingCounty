@@ -1,7 +1,7 @@
 # KingCounty
 
 #### This Python project focuses on identifying factors that affect house prices and revealing their relationship to price. The project uses Choropleth map plotting, machine learning (Regression, Clustering) in Python to provide market insights. It is visualized using Python and Tableau. 
-![image](https://github.com/jinu5452/KingCounty/assets/157840439/99f11e20-8178-4c6a-ab4a-ef68463da3f8)
+
 
 ## Recommendations:
 1. For Homebuyers:
@@ -12,4 +12,4 @@
 - Consider renovations: Investing in strategic renovations or updates can enhance your property's appeal and justify a higher asking price.
 
 ### Visualizations:
-Final Report (Tableau Story)
+[Final Report (Tableau Story)](https://public.tableau.com/app/profile/jinwoo.chung/viz/HouseSalesinKingCounty_17088954682550/KingCounty?publish=yes)  
